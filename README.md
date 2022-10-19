@@ -11,7 +11,7 @@ Adams Ourahay
 
 # Votre expérience en programmation
 Je n'est actuellement aucune experience en programmation mais j'ai toujours voulus apprendre a programmer des scrypts ouet des applications web et mobiles
-
+v
 
 # Vos attentes envers le cours
 Mes attentes envers le cours de concepts de pro sont assez positives vu mon optimisme à réussir mon cours avec des bonnes notes.
